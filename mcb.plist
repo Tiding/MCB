@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>mcinsapp</string>
+                <string>mc_insapp</string>
                 <key>bundle-version</key>
                 <string>2.1.0</string>
                 <key>kind</key>
